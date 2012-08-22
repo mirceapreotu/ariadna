@@ -80,3 +80,7 @@ All the metrics and dimensions returned by the query are mapped into attributes.
 ## Contributors
 
 * Jorge Alvarez [http://www.alvareznavarro.es](http://www.alvareznavarro.es/?utm_source=github&utm_medium=gem&utm_campaign=ariadna)
+
+## License
+
+[Released under MIT license](http://www.opensource.org/licenses/MIT)
